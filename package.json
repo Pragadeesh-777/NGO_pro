@@ -51,13 +51,12 @@
         "framer-motion": "^12.38.0",
         "input-otp": "^1.4.2",
         "leaflet": "^1.9.4",
+        "leaflet-routing-machine": "^3.2.12",
         "lucide-react": "^0.462.0",
         "next-themes": "^0.3.0",
-
         "react": "18.2.0",
-        "react-dom": "18.2.0",
-
         "react-day-picker": "^8.10.1",
+        "react-dom": "18.2.0",
         "react-hook-form": "^7.61.1",
         "react-leaflet": "^4.2.1",
         "react-resizable-panels": "^2.1.9",
@@ -84,7 +83,6 @@
         "eslint-plugin-react-refresh": "^0.4.20",
         "globals": "^15.15.0",
         "jsdom": "^20.0.3",
-        "lovable-tagger": "^1.1.13",
         "postcss": "^8.5.6",
         "tailwindcss": "^3.4.17",
         "typescript": "^5.8.3",

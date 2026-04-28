@@ -29,9 +29,9 @@ export default function Contact() {
         </div>
 
         <div className="mt-10 grid gap-6 md:grid-cols-3">
-          <Card className="p-6 text-center shadow-soft"><Mail className="mx-auto h-6 w-6 text-primary" /><p className="mt-2 font-semibold">Email</p><p className="text-sm text-muted-foreground">hello@smartaid.org</p></Card>
-          <Card className="p-6 text-center shadow-soft"><Phone className="mx-auto h-6 w-6 text-primary" /><p className="mt-2 font-semibold">Phone</p><p className="text-sm text-muted-foreground">+91 22 6789 1234</p></Card>
-          <Card className="p-6 text-center shadow-soft"><MapPin className="mx-auto h-6 w-6 text-primary" /><p className="mt-2 font-semibold">Office</p><p className="text-sm text-muted-foreground">Mumbai, India</p></Card>
+          <Card className="p-6 text-center shadow-soft"><Mail className="mx-auto h-6 w-6 text-primary" /><p className="mt-2 font-semibold">Email</p><p className="text-sm text-muted-foreground">2k23it37@kiot.ac.in</p></Card>
+          <Card className="p-6 text-center shadow-soft"><Phone className="mx-auto h-6 w-6 text-primary" /><p className="mt-2 font-semibold">Phone</p><p className="text-sm text-muted-foreground">+91 73395 83589</p></Card>
+          <Card className="p-6 text-center shadow-soft"><MapPin className="mx-auto h-6 w-6 text-primary" /><p className="mt-2 font-semibold">Office</p><p className="text-sm text-muted-foreground">Salem, India</p></Card>
         </div>
 
         <Card className="mt-8 p-8 shadow-soft">
